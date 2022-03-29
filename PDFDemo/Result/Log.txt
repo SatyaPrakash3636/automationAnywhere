@@ -1,0 +1,12 @@
+(10/8/2020 6:02:33 PM) File Name: AA.txt
+Line Num: 8
+Err Desc: Invalid credentials.
+
+(10/8/2020 6:06:25 PM) File Name: AA.txt
+Line Num: 8
+Err Desc: Invalid credentials.
+
+(10/8/2020 6:06:34 PM) File Name: ZZ.txt
+Line Num: 8
+Err Desc: Invalid credentials.
+
